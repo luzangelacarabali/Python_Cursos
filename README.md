@@ -1,7 +1,4 @@
-## 🚀 Abrir notebook en Google Colab
 
-[![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/luzangelacarabali/Python_Cursos/blob/main/Notebooks/normalizacion_tests%20(1).ipynb)
-## 🎙️ Python Schools 2026
 
 ## Curso de Python aplicado al desarrollo de un producto mínimio viable para Oriente Estero, la radio comunitaria. 
 Este repositorio contiene los cuadernos recopilados del curso de Python para PythonSchools y el material de apoyo. El contenido de estos notebooks estan alineados con el desarrollo del MVP para la radio Oriente Estereo. Este material es la base pedagógica para la contruccion del producto. 
